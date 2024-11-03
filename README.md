@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @sayz-rio
-- 👀 I’m interested in Network
-- 🌱 I’m currently learning FN-BN
-- ⚡ Fun fact: Anime
+.//.//
